@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/pd-nivedh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pdnivedh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=todoist&logoColor=white" /></a>
+  <a href="https://pdnivedh.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=todoist&logoColor=white" /></a>
 </p>
 
 ---
