@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nivedh 👋</h1>
 
 <p align="center">
-  MSc Data Science & BioAI @ Digital University Kerala · ML for healthcare, agriculture & drug discovery
+  MSc Data Science & BioAI @ Digital University Kerala · AI/ML for healthcare, agriculture & drug discovery
 </p>
 
 <p align="center">
